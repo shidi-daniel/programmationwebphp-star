@@ -1,0 +1,18 @@
+[
+    {
+        "code_barre": "123456",
+        "nom": "Bananes",
+        "prix_unitaire_ht": 500,
+        "date_expiration": "2026-06-25",
+        "quantite_stock": 9,
+        "date_enregistrement": "2026-04-23"
+    },
+    {
+        "code_barre": "12345678910 ",
+        "nom": "baume demelant UB",
+        "prix_unitaire_ht": 1350,
+        "date_expiration": "2027-12-12",
+        "quantite_stock": 100,
+        "date_enregistrement": "2026-04-24"
+    }
+]

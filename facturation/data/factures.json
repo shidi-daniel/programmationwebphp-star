@@ -1,0 +1,20 @@
+[
+    {
+        "id_facture": "FAC-20260423-001",
+        "date": "2026-04-23",
+        "heure": "07:58:22",
+        "caissier": "admin",
+        "articles": [
+            {
+                "code_barre": "123456",
+                "nom": "Bananes",
+                "prix_unitaire_ht": 500,
+                "quantite": 1,
+                "sous_total_ht": 500
+            }
+        ],
+        "total_ht": 500,
+        "tva": 90,
+        "total_ttc": 590
+    }
+]

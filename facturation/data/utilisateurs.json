@@ -1,0 +1,26 @@
+[
+    {
+        "identifiant": "admin",
+        "mot_de_passe": "$2b$10$QgyeIJoHtqhT5TkcqdFRE.3Yu\/pvi3XWadrXsNPrpL1BxCl\/7AuhW",
+        "role": "super_admin",
+        "nom_complet": "Super Administrateur",
+        "date_creation": "2026-04-22",
+        "actif": true
+    },
+    {
+        "identifiant": "daniel",
+        "mot_de_passe": "$2y$12$erUHzojfqOu8p6d5xcY89OzX2MKqWjDOeHZ4nRrMXCOBdAWSpZIpi",
+        "role": "manager",
+        "nom_complet": "Daniel shidi",
+        "date_creation": "2026-04-23",
+        "actif": true
+    },
+    {
+        "identifiant": "bienvenu",
+        "mot_de_passe": "$2y$12$HCWrvxsh4rtr6ZsTsYIcNOgwbCbrSumYz8KJL2ZNVSTHjyAvMSpJi",
+        "role": "caissier",
+        "nom_complet": "Bienvenu Masamba",
+        "date_creation": "2026-04-23",
+        "actif": true
+    }
+]
